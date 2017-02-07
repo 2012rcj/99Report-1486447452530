@@ -1,0 +1,425 @@
+/** CSS for body tag Starts here**/
+#bid{
+	margin:0px;
+	table-layout: auto;
+	background-color:#BDB76B;
+	
+}
+
+#Hdrbdy{
+	margin:0px;
+	table-layout: auto;
+	background-color:#BDB76B;
+}
+
+#Ftrbdy{
+	table-layout: auto;
+	background-color:#BDB76B;
+	margin:0px;
+}
+/** CSS for body tag Ends here**/
+
+/** CSS for div tags Starts here**/
+#div1{
+	background-color: #FF6600;
+	width:100%;
+	}
+	
+#div2{
+	background-color: #0000CD;
+	width: 100%;
+	}	
+
+#div3{
+	background-color:#BDB76B;
+	width: 100%;
+	}
+	
+#div4{
+	background-color: #BDB76B;
+	width: 100%;
+}	
+	
+#div5{
+	width:100%;
+	}	
+	
+#div6{
+	background-color: #BDB76B;
+	width: 100%;
+}	
+	
+#div7{
+	color:#FF6600;
+	
+	width: 100%;
+}		
+	
+#footer{
+	
+}	
+
+/** CSS for div tag Ends here**/
+
+
+/** CSS for table tag Ends here**/
+#div1 table1{
+	width: 100%;
+	height: 100%;
+	}
+#div2 table2{
+	width: 100%;
+	}
+
+#table3{
+	width:100%;
+}	
+
+#table4{
+	 width:100%;
+	 height:100%;
+}
+
+#table5{
+	 width:100%;
+	 height:100%;
+}
+
+#table6{
+	width:100%;
+}
+
+#table7{
+	width:100%;
+	align:center;
+	border:0;
+}
+
+#table8{
+	width:100%;
+	 height:100%;
+}
+
+#table9{
+	width:100%;
+	margin-top:0px;
+}
+
+		/** CSS for heading tag Starts here**/
+	
+	#heading1{
+	
+	
+	}	
+
+#ALH1{
+	text-align:center;
+	font-family:sans-serif;
+	font-size:medium;
+	color:lime;
+	font-weight:normal;
+	width:20%;
+	
+}
+
+#ALH2{
+	text-align:right;
+	font:bold;
+	color:lime;
+	font-family: monospace;
+	padding-right:50px;
+	width:20%;
+}
+	
+/** CSS for heading tag Ends here**/
+
+
+/** CSS for table tag Ends here**/
+
+/** CSS for tr's Starts here**/
+
+#tr1{
+	background-color:#FF6600;	
+	width:100%;
+}
+
+#tr2{
+	background-color:#0000CD;	
+	width:100%;
+
+}
+
+#tr3{
+	width:100%;
+}
+
+#tr4{
+	width:100%;
+}
+
+#tr5{
+	background-color:#FF6600;
+	width:100%;
+}
+
+#tr6{
+	width:100%;
+}
+
+#tr7{
+	width:100%;
+}
+
+#tr8{
+	width:100%;
+}
+
+#tr9{
+	width:100%;
+}
+
+#tr10{
+	width:100%;	
+}
+
+/** CSS for tr's Ends here**/
+
+
+/** CSS for td's Starts here**/
+#td1{
+	width:20%;
+	height:80%;
+	}
+	
+#td2{
+	width:20%;
+	height:80%;
+	}	
+
+#td3{
+	width:20%;
+	height:80%;
+	}
+	
+#td4{
+	width:20%;
+	height:80%;
+	}	
+	
+#td5{
+	width:20%;
+	height:80%;
+	}	
+	
+#td6{
+	width:100%;
+	height:auto;
+		}
+				
+#td7{
+	width:20%;
+	}				
+
+#td8{
+	width:20%;
+	text-align:center;
+}
+
+#td9{
+	width:30%;
+	text-align:justify;
+	font-weight: lighter;
+	font-size:x-large;
+	color: lime;
+	
+}
+
+#td10{
+	width:10%;
+}
+
+#td11{
+	width:20%;
+	text-align:center;
+	color:blue;
+	}
+	
+#td12{
+	width:100%;
+}	
+	
+#td13{
+	text-align:center;
+	color:maroon;
+	bottom:0;	
+}
+
+#td14{
+	width:20%;
+}
+
+#td15{
+	width:20%;
+}
+
+#td16{
+	width:20%;
+}
+
+
+#td17{
+	width:20%;
+	colspan:2;
+	text-align:right;
+}
+
+#td18{
+	width:20%;
+	}
+
+#td19{
+	width:20%;
+	colspan:2;
+	text-align:right;
+	}
+	
+#td20{
+	width:20%;
+	}
+
+#td21{
+	width:20%;
+	}
+
+#td22{
+	width:20%;
+	align:center;
+	}
+
+#td23{
+	width:100%;
+	}
+
+#td24{
+	align:center;
+	width:20%;
+}
+
+#td25{
+	 align:center;
+	 width:20%;
+}
+
+/** CSS for td's Ends here**/
+
+
+/** CSS for iFrames Starts here**/
+#ifrm1{
+	
+	width:1000px;
+	height:439px; 
+}
+
+#ifrm2{
+	
+	width:900px;
+	height:320px; 
+}
+
+#ifrm3{
+	
+	width:900px;
+	height:405px; 
+}
+/** CSS for iFrames Ends here**/
+
+
+/** CSS for images Starts here**/
+#intlogo{
+	width:259px;
+	height:140px;
+	}	
+
+#pa1{
+	width:259px;
+	height:140px;
+}	
+
+#pa3{
+	width:259px;
+	height:140px;
+}	
+
+#RSC{
+	width:259px;
+	height:140px;
+}	
+
+#pabi1{
+	width:260px;
+	height:140px;
+}
+
+#loginimg{
+	width:100px;
+	height:25px;
+	align:"middle";
+	
+	}	
+	
+#stridbx{
+	
+}	
+/** CSS for images Ends here**/
+
+
+ 
+/**CSS for Report.jsp Drop down list Starts**/
+
+.dropbtn {
+    background-color: #4CAF50; /**green color**/
+    color: white;/**color of the text written inside the tab**/
+    padding:6px; /** height of the tab**/
+    font-size:16px;/** font size of the text inside the box**/
+    width:191px;/**width of the tab**/
+    border: none;
+    cursor: pointer;
+    
+    
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    float:left;
+    
+    
+    
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 190px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: fuschia;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41; /**Changes color of Main drop down List Tab**/
+}
+
+/**CSS for Report.jsp Drop down list ends here**/
